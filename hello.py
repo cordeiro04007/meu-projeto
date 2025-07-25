@@ -1,2 +1,3 @@
-print('hello git e Pycharm')
+mensagem = 'oi'
+print(mensagem)
 
