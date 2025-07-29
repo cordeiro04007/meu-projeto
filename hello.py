@@ -1,3 +1,2 @@
-mensagem = 'oi'
-print(mensagem)
+print('olá github')
 
